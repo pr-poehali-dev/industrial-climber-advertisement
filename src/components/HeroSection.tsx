@@ -40,7 +40,7 @@ const HeroSection = ({ scrollToSection }: HeroSectionProps) => {
 
           <div className="grid grid-cols-3 gap-8 pt-12 border-t border-background/20">
             <div>
-              <div className="text-4xl font-bold text-accent">500+</div>
+              <div className="text-4xl font-bold text-accent">50+</div>
               <div className="text-background/70">Проектов</div>
             </div>
             <div>
